@@ -1,0 +1,14 @@
+.container-layout {
+  margin: 0 5rem;
+  @media (max-width: 768px) {
+    margin: 0 1rem;
+  }
+}
+
+.banner {
+  &-title {
+    @media (max-width: 768px) {
+      font-size: 15px;
+    }
+  }
+}

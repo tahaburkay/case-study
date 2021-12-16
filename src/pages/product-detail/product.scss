@@ -1,0 +1,24 @@
+.product {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  margin: 120px 0px;
+  @media (max-width: 768px) {
+    margin-top: 100px;
+    flex-direction: column;
+  }
+  &-img {
+    width: 220px;
+  }
+  &-content {
+    color: black;
+  }
+  &-basket {
+    border: 1px solid blue;
+    border-radius: 22px;
+    margin: 0px 10px 15px;
+    border-width: 2px;
+    width: 200px;
+  }
+}
