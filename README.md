@@ -14,11 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-# ciceksepeti
-
+# contents-ciceksepeti
 
 The points I pay attention to are:
-
 
 Modular structure
 Created a Layout page with Grid and used Flexbox
