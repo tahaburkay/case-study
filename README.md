@@ -18,14 +18,14 @@ You will also see any lint errors in the console.
 
 The points I pay attention to are:
 
-Modular structure
-Created a Layout page with Grid and used Flexbox
-Typescript is used.
-zustand Global State Management is used
-Styled Component is used.
-Suitable for Responsive Architecture.
-Css processor SASS is used. BEM Methodology applied
-React Router is used. Created a dynamic page.
-I worked with json Data.
-Version Control System Git is used.. 
+Modular structure.\
+Created a Layout page with Grid and used Flexbox.\
+Typescript is used.\
+zustand Global State Management is used.\
+Styled Component is used.\
+Suitable for Responsive Architecture.\
+Css processor SASS is used. BEM Methodology applied.\
+React Router is used. Created a dynamic page.\
+I worked with json Data.\
+Version Control System Git is used.\
 
